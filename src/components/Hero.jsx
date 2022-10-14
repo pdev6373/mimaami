@@ -1,5 +1,5 @@
-import logo from "../assets/image 1.svg";
-import heroImage from "../assets/image 3.svg";
+import logo from "../assets/image 1.png";
+import heroImage from "../assets/image 3.png";
 
 export const Hero = () => {
   return (

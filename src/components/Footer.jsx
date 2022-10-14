@@ -1,4 +1,4 @@
-import img from "../assets/Rectangle 53.svg";
+import img from "../assets/Rectangle 53.png";
 
 export const Footer = () => {
   return (

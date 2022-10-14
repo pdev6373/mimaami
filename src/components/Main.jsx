@@ -1,7 +1,7 @@
-import img1 from "../assets/Rectangle 32.svg";
-import img2 from "../assets/Rectangle 33.svg";
-import img3 from "../assets/Rectangle 34.svg";
-import img4 from "../assets/Rectangle 35.svg";
+import img1 from "../assets/Rectangle 32.png";
+import img2 from "../assets/Rectangle 33.png";
+import img3 from "../assets/Rectangle 34.png";
+import img4 from "../assets/Rectangle 35.png";
 
 export const Main = () => {
   const details = [
